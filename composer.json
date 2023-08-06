@@ -1,0 +1,21 @@
+{
+    "name": "abaza/packaging",
+    "description": "This is Testing Package",
+    "type": "library",
+    "license": "GPL3",
+    "autoload": {
+        "psr-4": {
+            "Abaza\\Packaging\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Red",
+            "email": "seif.abaza@yandex.ru"
+        }
+    ],
+    "require": {}
+}
