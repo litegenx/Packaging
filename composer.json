@@ -2,7 +2,7 @@
     "name": "abaza/packaging",
     "description": "This is Testing Package",
     "type": "library",
-    "license": "GPL3",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Abaza\\Packaging\\": "src/"
